@@ -1,5 +1,5 @@
 {
-  "title": "Food List"
+  "title": "Food List",
   "foods": [
     {"id": "1", "name": "pizza","price": "15"}, 
     {"id": "2", "name": "cake","price": "25" }, 
