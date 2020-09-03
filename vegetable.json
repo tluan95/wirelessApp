@@ -1,6 +1,6 @@
 {
   "title": "Vegetable List",
-  "foods": [
+  "veges": [
     {"id": "1", 
      "name": "Brocoli",
      "price": "5",
