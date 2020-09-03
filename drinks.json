@@ -1,0 +1,28 @@
+{
+  "title": "Drink List",
+  "foods": [
+    {"id": "1", 
+     "name": "Cola",
+     "price": "8",
+     "photoURL" :"https://secure.ap-tescoassets.com/assets/MY/415/9555589200415/ShotType1_540x540.jpg"
+    }, 
+    {"id": "2",
+     "name": "Good Day Milk",
+     "price": "15",
+     "photoURL" :"https://secure.ap-tescoassets.com/assets/MY/116/9557727930116/ShotType1_540x540.jpg"
+     
+    }, 
+    {"id": "3",
+     "name": "Seamaster Mineral Waterk",
+     "price": "8",
+     "photoURL" :"https://www.prostat.com.my/wp-content/uploads/2019/08/Seamaster-Drinking-Water-Bottle-1500ml.jpg"
+     
+    },
+    {"id": "4", 
+     "name": "Milo Drink",
+     "price": "11",
+     "photoURL" :"https://www.pantryexpress.my/43-thickbox_default/milo-uht-chocolate-1l.jpg"
+    }
+    ]
+  
+}
