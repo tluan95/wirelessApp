@@ -1,6 +1,6 @@
 {
   "title": "Drink List",
-  "foods": [
+  "drinks": [
     {"id": "1", 
      "name": "Cola",
      "price": "8",
