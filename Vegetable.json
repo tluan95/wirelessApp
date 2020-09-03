@@ -1,0 +1,27 @@
+{
+  "title": "Vegetable List",
+  "foods": [
+    {"id": "1", 
+     "name": "Brocoli",
+     "price": "5",
+     "photoURL" :"https://pbs.twimg.com/media/C3oVVoAUYAAGzwp.jpg"
+    }, 
+    {"id": "2",
+     "name": "Tomato",
+     "price": "2",
+     "photoURL" :"https://cdn.shopify.com/s/files/1/0244/4961/3905/products/tomato_grande.jpg?v=1576807420"
+     
+    }, 
+    {"id": "3", 
+     "name": "Bak Choy",
+     "price": "2.5",
+     "photoURL" :"https://cf.shopee.co.id/file/4ed2151cc7bee1b2ffc37be43b1745dd"
+    },
+    {"id": "4", 
+     "name": "Lady Finger",
+     "price": "25",
+     "photoURL" :"https://cdn.rasa.my/wp-content/uploads/2018/02/Ladyfinger-vegetable-1024x640.png"
+    }
+    ]
+  
+}
