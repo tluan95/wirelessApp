@@ -3,12 +3,12 @@
   "foods": [
     {"id": "1", 
      "name": "pizza",
-     "price": "15"
+     "price": "15",
      "photoURL" :"https://img.buzzfeed.com/thumbnailer-prod-us-east-1/dc23cd051d2249a5903d25faf8eeee4c/BFV36537_CC2017_2IngredintDough4Ways-FB.jpg"
     }, 
     {"id": "2",
      "name": "cake",
-     "price": "25" ,
+     "price": "25",
      "photoURL" :"http://4.bp.blogspot.com/-LoW-Sti03ok/T04xBDQbq2I/AAAAAAAABrc/lLgW5Cl-rc0/s1600/spongecake02.jpg"
      
     }, 
