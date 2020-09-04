@@ -21,46 +21,8 @@
      "name": "Lady Finger",
      "price": "1.5",
      "photoURL" :"https://cdn.rasa.my/wp-content/uploads/2018/02/Ladyfinger-vegetable-1024x640.png"
-    },
-    {"id": "5",
-     "name": "Orange",
-     "price": "2,
-     "photoURL" :"https://www.medicalmedium.com/blog-photos/orange33.jpg"
-    },
-    {"id": "6" ,
-     "name": "Apple",
-     "price": "1.5",
-     "photoURL" :"hhttps://www.bestgrocerydelivery.net/assets/images/honeycrispapplebag25lbs.jpg"
-    },
-    {"id": "7",
-     "name": "Onion",
-     "price": "1",
-     "photoURL" :"https://images.indianexpress.com/2019/12/Onion-alternative_1200.jpg"
-    },
-    
-    {"id": "8",
-     "name": "Gralic",
-     "price": "0.8",
-     "photoURL" :"https://www.inlifehealthcare.com/wp-content/uploads/2013/12/Garlic.jpg"
-    },
-    
-    {"id": "9",
-     "name": "Chili",
-     "price": "0.5"
-     "photoURL" :"https://p7.hiclipart.com/preview/97/399/739/chutney-chili-pepper-indian-cuisine-chili-powder-spice-red-chilli.jpg"
-    },
-    
-    {"id": "10",
-     "name": "Pumpkin",
-     "price": "9",
-     "photoURL" :"https://sb-assets.sgp1.cdn.digitaloceanspaces.com/product/main_image/29359/small_a31e48dd-e338-4c52-bc81-a4d3afc93e42.jpg"
-    },
-    
-    {"id": "11",
-    "name" : "Mushroom",
-     "price": "3",
-     "photoURL" :"https://res.hoto.cn/5a3cdfdc0135db530c6b8a28.jpg!default"
     }
+    
     
     ]
   
