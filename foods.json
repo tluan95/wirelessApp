@@ -21,6 +21,66 @@
      "name": "Munchy Cookie",
      "price": "25",
      "photoURL" :"https://www.zuppa.com.my/zuppamarket/wp-content/uploads/Munchys-Top-Mix-Assorted-Biscuit-Tin-700g.jpg"
+    },
+    {"id": "5", 
+     "name": "Oreo Cookie",
+     "price": "5",
+     "photoURL" :"https://www.coop.ch/img/produkte/1200_630/RGB/4094888_001.jpg?_=1539125524913"
+    },
+    {"id": "6", 
+     "name": "Gardenia Bread",
+     "price": "4",
+     "photoURL" :"2wCEAAkGBxMSEhMTExIWExIXFRUaFhcYFhgVEhoWFRkYGBsXGRgZHiggGBslHxkVITEiJy0rLi4vGB8zOjMsNygtLisBCgoKDg0OGxAQGy0lICYyMC8vNS8tMDUtLy0tLSstLS8vLS8tLS0rKy0tLS0vLS0tLS0tLS0tLS0tLS0tLS0tLf"
+    },
+    {"id": "7", 
+     "name": "Roasted Chicken",
+     "price": "30",
+     "photoURL" :"https://cdn.happyfresh.com/spree/images/attachments/cb861cd24c0cbce55480a8865e65b0c357ff292e-large.jpg?1571714934"
+    },
+    {"id": "8", 
+     "name": "Cheezy Wedges",
+     "price": "8",
+     "photoURL" :"https://my-live-01.slatic.net/original/6ab1a532d3c50a163d46884f97fe676b.jpg"
+    },
+    {"id": "9", 
+     "name": "Potato Chip",
+     "price": "7",
+     "photoURL" :"https://businessday.ng/wp-content/uploads/2019/07/potato-chips.jpg"
+    },
+    {"id": "10", 
+     "name": "Spaghetti",
+     "price": "12",
+     "photoURL" :"https://www.cookingclassy.com/wp-content/uploads/2018/01/instant-pot-spaghetti-12.jpg"
+    },
+    {"id": "11", 
+     "name": "Mango Cheesecake",
+     "price": "8",
+     "photoURL" :"https://assets.epicurious.com/photos/57b208990e4be0011c1bf088/master/pass/mango-cheesecake.jpg"
+    },
+     {"id": "12", 
+     "name": "Belgium Dark Chocolate Bar",
+     "price": "14",
+     "photoURL" :"https://i1.wp.com/www.eatthis.com/wp-content/uploads/2017/10/dark-chocolate-bar-squares.jpg?fit=1024%2C750&ssl=1"
+    },
+    {"id": "13", 
+     "name": "Spicy Korean Fried Chicken",
+     "price": "18",
+     "photoURL" :"https://mykoreankitchen.com/wp-content/uploads/2017/10/3.-Spicy-Korean-Fried-Chicken.jpg"
+    },
+    {"id": "14", 
+     "name": "Mexican Taco",
+     "price": "13",
+     "photoURL" :"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSB8Nq6jI3PilNJxvNVuYzvuvICsKgg4wmu-Q&usqp=CAU"
+    },
+    {"id": "15", 
+     "name": "Cantonese Siu Mai",
+     "price": "10",
+     "photoURL" :"https://healthynibblesandbits.com/wp-content/uploads/2019/05/Cantonese-Shumai-FF2.jpg"
+    },
+    {"id": "16", 
+     "name": "Thai Style Green Curry Chicken",
+     "price": "18",
+     "photoURL" :"https://upload.wikimedia.org/wikipedia/commons/e/e5/Thai_green_chicken_curry_and_roti.jpg"
     }
     ]
   
