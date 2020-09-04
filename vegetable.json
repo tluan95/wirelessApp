@@ -27,6 +27,11 @@
      "price": "2",
      "photoURL" :"https://cdn.rasa.my/wp-content/uploads/2018/02/Ladyfinger-vegetable-1024x640.png"
     },
+     {"id": "6" ,
+     "name": "Apple",
+     "price": "1.5",
+     "photoURL" :"https://www.bestgrocerydelivery.net/assets/images/honeycrispapplebag25lbs.jpg"
+    }
   ]
   
 }
